@@ -1,2 +1,2 @@
-sqlalchemy
-psycopg2
+SQLAlchemy==2.1.8
+psycopg[binary]==3.3.8
